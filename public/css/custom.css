@@ -1,0 +1,15 @@
+.mensajeadvertencia {
+    color: red;
+    font-size: 15px;
+    margin-top: 1em;
+}
+
+.avisoform {
+    text-align: right;
+    cursor: pointer;
+}
+
+.avisoform span {
+    color: black;
+    font-size: 12px;
+}
